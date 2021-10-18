@@ -1,0 +1,22 @@
+// WAP to print FIRST word of any entered name in the following pattern.
+
+// N
+// N A
+// N A M
+// N A M E
+
+import java.util.Scanner;
+public class Pattern_Name_2 {
+    public static void main(String args[]){
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter your First Name: ");
+        String name = sc.next();
+        int ch = name.length();
+        for(int i = 0; i < ch; i++){
+            for(int j = 0; j <= i; j++){
+                System.out.print(name.charAt(j) + " ");
+            }
+            System.out.println();
+        }
+    }
+}

@@ -1,0 +1,6 @@
+JAVA CLASS METHODS
+
+Type 1) Without Return and Without Arguments
+Type 2) Without Return and With Arguments
+Type 3) With Return and Without Arguments
+Type 4) With Return and With Arguments

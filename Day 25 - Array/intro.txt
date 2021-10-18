@@ -1,0 +1,10 @@
+Array is a Non - Primitive Data type.
+
+Advantages of using array upon the normal variable and values assignment is the MEMORY SAVING.
+
+    -var     -----elements-----
+int arr[] = {11, 12, 13, 14, 15};
+     index - 0   1   2    3   4 
+   positon - 1   2   3    4   5
+
+An extra element is created as '\0'. It represts null character and termination of the array.
