@@ -9,9 +9,9 @@ class Classroom{
     }
 
     Classroom (int x, int y, int z){
-        l = x;
-        b = y;
-        h = z;
+        x = l;
+        y = b;
+        z = h;
     }
 
     void CalArea(){
