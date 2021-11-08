@@ -1,3 +1,5 @@
+// 11) Write a Java Program to multiply 3 numbers using an argument constructor.
+
 public class Multiply_3_num_constructor_11 {
     
     int x;
