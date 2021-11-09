@@ -8,8 +8,8 @@ class cal{
     double calculate(double pi,double r){
         return pi*r*r;
     }
-    double calculate(int a){
-       return (double)(a*a);
+    double calculate(double a){
+       return (a*a);
     }
     double calculate(double pi,double a,double b){
         return pi*a*a*b;
@@ -17,7 +17,7 @@ class cal{
 }
 
 public class Method_Overloading_Calc_Area_13 {
-    public static void main(String[] args) {
+    public static void main(String args[]) {
         cal c1=new cal();
         double p=c1.calculate(3, 4);
         double q=c1.calculate(3.14, 6);

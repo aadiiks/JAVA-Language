@@ -3,7 +3,7 @@
 import java.util.Scanner;
 
 public class Largest_Number_In_Array_14 {
-    public static void main(String[] args) {
+    public static void main(String args[]) {
         Scanner sc=new Scanner (System.in);
         int arr[]=new int [10];
         System.out.println("Enter the 10 elements");

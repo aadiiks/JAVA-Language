@@ -1,7 +1,7 @@
 // 12.1) Write a Java Program to implement method overloading i) by changing the number of arguments and ii) by changing the data type of arguments.
 
 public class Method_Overloading_Change_no_args_12_1 {
-    public static void main(String[] args) {
+    public static void main(String args[]) {
         add add1=new add();
         int a=10;
         int b=20;
@@ -10,14 +10,13 @@ public class Method_Overloading_Change_no_args_12_1 {
         
         int x=add1.addition(a, b, c);
         int y=add1.addition(a,b,c,d);
-         System.out.println("val of X="+x+" Val of Y="+y);
-     }   
+         System.out.println("Val of X = "+x+" Val of Y = "+y);
+    }   
 }
 class add{
    
     int addition(int a,int b,int c){
         return a+b+c;
-        
     }
     int  addition(int a,int b,int c,int d){
         return a+b+c+d;
