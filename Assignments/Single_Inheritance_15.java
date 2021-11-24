@@ -19,8 +19,15 @@ class A extends B {
 public class Single_Inheritance_15 {
     public static void main(String args[]) {
         B b=new B();
-        b.sum_of_2();
         A a=new A();
+
+        b.i=10;
+        b.j=20;
+        b.sum_of_2();
+        
+        a.i=10;
+        a.j=20;
+        a.k=30;
         a.sum_of_3();
 
     }
