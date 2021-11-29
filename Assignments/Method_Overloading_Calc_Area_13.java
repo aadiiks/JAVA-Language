@@ -27,3 +27,10 @@ public class Method_Overloading_Calc_Area_13 {
         System.out.println("The area of a triangle "+p+"\n The area of square is  "+r+"\n The area of circle is "+q+"\n The area of cylinder is "+s);   
     }
 }
+
+// OUTPUT
+
+// The area of a triangle 6.0
+//  The area of square is  16.0
+//  The area of circle is 113.03999999999999
+//  The area of cylinder is 471.0

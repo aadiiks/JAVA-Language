@@ -1,4 +1,4 @@
-// 2. Write a Java Program to show the name, roll no., and department of a student using constructor overloading.
+// 2) Write a Java Program to show the name, roll no., and department of a student using constructor overloading.
 
 class Student_Details{
     String name, dept;
@@ -25,3 +25,10 @@ public class PCA1_Overloading_2{
         Student_Details s2 = new Student_Details("ADITYA KUMAR SINGH", 52, "CSE");
     }
 }
+
+
+// OUTPUT
+
+// Name = ADITYA KUMAR SINGH       Roll = 52
+
+// Name = ADITYA KUMAR SINGH       Roll = 52       Department = CSE

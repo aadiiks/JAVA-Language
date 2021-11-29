@@ -1,4 +1,4 @@
-// WAP to create a class circle having one data member radius & method get area and return the area of the circle.
+// 19) WAP to create a class circle having one data member radius & method get_area and return the area of the circle.
 // Create another class cylinder of superclass circle to return the lateral surface area of cylinder.
 
 import java.util.Scanner;
@@ -44,3 +44,14 @@ public class Overridding_Calc_Area_19 {
         c2.get_area();
     }    
 }
+
+
+// OUTPUT
+
+// Enter the Details of Circle.
+// Enter the radius: 5
+// Enter the Details of Cylinder.
+// Enter the radius: 5
+// Enter the height: 10
+// Area of circle is: 78.5
+// Area of Cylinder is: 785.0

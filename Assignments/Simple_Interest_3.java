@@ -1,4 +1,4 @@
-// Write a Java Program to find the simple interest taking input through the scanner class.
+// 3) Write a Java Program to find the simple interest taking input through the scanner class.
 
 import java.util.Scanner;
 public class Simple_Interest_3{
@@ -15,3 +15,11 @@ public class Simple_Interest_3{
         System.out.print("The Simple Interest is : " + si);
     }
 }
+
+
+// OUTPUT
+
+// Enter the Principle : 10000
+// Enter the Rate of interest : 4
+// Enter the Time period : 5
+// The Simple Interest is : 2000.0

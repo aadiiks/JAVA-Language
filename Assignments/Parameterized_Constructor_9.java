@@ -15,3 +15,10 @@ public class Parameterized_Constructor_9 {
         Test t = new Test(10, 20);
     }
 }
+
+
+// OUTPUT
+
+// x: 10
+// y: 20
+// Parameterised constructor Invoked.

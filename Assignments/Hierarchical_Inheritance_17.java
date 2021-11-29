@@ -1,4 +1,4 @@
-// WAP to create a class vehicle that stores no. of wheels & speed.
+// 17) WAP to create a class vehicle that stores no. of wheels & speed.
 // Create the following derived classses.
 //      Create a class Car that inherits vehicle & also stores the number of passengers.
 //      Create a class truck that inherits the vehicle & also stores the load limits.
@@ -33,3 +33,10 @@ class Truck extends vehicle{
         System.out.println("No.of Load_limit is : " + loadlimits);
     }
 }
+
+// OUTPUT
+
+// No.of wheels is : 4
+// Speed is : 50
+// No.of Passenger is : 10
+// No.of Load_limit is : 23

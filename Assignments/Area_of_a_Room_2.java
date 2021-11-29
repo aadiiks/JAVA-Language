@@ -1,4 +1,4 @@
-// Write a java program to find the area of a room.
+// 2) Write a java program to find the area of a room.
 
 public class Area_of_a_Room_2 {
     public static void main(String args[]) {
@@ -10,3 +10,10 @@ public class Area_of_a_Room_2 {
         System.out.println("The area of the room is: "+ area);      
     }
 }
+
+
+// OUTPUT
+
+// The height of room is: 5.0
+// The width of room is: 10.0   
+// The area of the room is: 50.0

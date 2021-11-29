@@ -1,4 +1,4 @@
-// 1. Write a Java Program to wish “Good Morning”, “Good Afternoon”, and “Good Evening” according to the time input by the user using scanner class.(Use 24 hour time format)
+// 1) Write a Java Program to wish “Good Morning”, “Good Afternoon”, and “Good Evening” according to the time input by the user using scanner class.(Use 24 hour time format)
 
 import java.util.Scanner;
 public class PCA1_Wishing_1{
@@ -17,3 +17,9 @@ public class PCA1_Wishing_1{
         }
     }
 }
+
+
+// OUTPUT
+
+// Enter the hh of hh/mm/ss in 24 hours format: 16
+// Good Afternoon

@@ -1,4 +1,4 @@
-// Write a Java Program to find out whether a number is positive or negative taking input through the scanner class.
+// 4) Write a Java Program to find out whether a number is positive or negative taking input through the scanner class.
 
 import java.util.Scanner;
 public class Positive_or_Negative_4 {
@@ -21,3 +21,10 @@ public class Positive_or_Negative_4 {
     }
     
 }
+
+
+// OUTPUT
+
+// Enter the number to be checked: 
+// 26
+// The number is positive.

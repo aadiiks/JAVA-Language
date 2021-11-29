@@ -23,3 +23,7 @@ class add{
     }
     
 }
+
+// OUTPUT
+
+// Val of X = 60 Val of Y = 100

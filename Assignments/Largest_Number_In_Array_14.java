@@ -21,3 +21,28 @@ public class Largest_Number_In_Array_14 {
         System.out.println("The largest element is "+largest);
     }
 }
+
+// OUTPUT
+
+// Enter the 10 elements
+// Enter the element 1
+// 5
+// Enter the element 2
+// 6
+// Enter the element 3
+// 2
+// Enter the element 4
+// 3
+// Enter the element 5
+// 5
+// Enter the element 6
+// 4
+// Enter the element 7
+// 5
+// Enter the element 8
+// 6
+// Enter the element 9
+// 1
+// Enter the element 10
+// 2
+// The largest element is 6

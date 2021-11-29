@@ -37,3 +37,11 @@ public class Constructor_Overloading_10 {
         c2.CalVolume();
     }
 }
+
+
+// OUTPUT
+
+// Area: 1200
+// Volume: 24000
+// Area: 1200
+// Volume: 24000

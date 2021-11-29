@@ -1,4 +1,4 @@
-// Write a Java Program to implement the basic calculator operations using scanner class.
+// 7) Write a Java Program to implement the basic calculator operations using scanner class.
 
 import java.util.Scanner;
 public class Basic_Calculator_7 {
@@ -44,3 +44,13 @@ public class Basic_Calculator_7 {
         // System.out.print(num1 + " " + op + " " + num2 + " = " + ans);
     }
 }
+
+
+// OUTPUT
+
+// Enter two numbers: 
+// 10
+// 2 
+
+// Enter an operator (+, -, *, /): /
+// 5.0

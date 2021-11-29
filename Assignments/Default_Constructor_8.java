@@ -1,4 +1,4 @@
-// *) Write a Java Program to implement the concept of Default Constructor.
+// 8) Write a Java Program to implement the concept of Default Constructor.
 
 class Game{
     Game(){
@@ -11,3 +11,7 @@ public class Default_Constructor_8{
         Game g = new Game();
     }
 }
+
+// OUTPUT
+
+// The game has been created.

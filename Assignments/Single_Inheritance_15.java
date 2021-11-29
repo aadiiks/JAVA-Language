@@ -1,4 +1,4 @@
-// WAP to create a base class B and print the values of two variables i & j in that class and then create a derived class that inherits the previous base class and print the sum of i,j&k in that derived class.
+// 15) WAP to create a base class B and print the values of two variables i & j in that class and then create a derived class that inherits the previous base class and print the sum of i,j&k in that derived class.
 
 
 class B {
@@ -32,3 +32,8 @@ public class Single_Inheritance_15 {
 
     }
 }
+
+// OUTPUT
+
+// The sum of i & j is: 30
+// The sum of i, j & k is: 60

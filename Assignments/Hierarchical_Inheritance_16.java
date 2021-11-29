@@ -1,4 +1,4 @@
-//  WAP to create a superclass building that stores the no. of floors, no. of bedrooms & total area. Create two deriveed classes from the bulding class with the following attributes.
+// 16) WAP to create a superclass building that stores the no. of floors, no. of bedrooms & total area. Create two deriveed classes from the bulding class with the following attributes.
 // BHK2 - no. of bedroom, no. of bathroom, no. of floors & total area.
 // BHK3 - no. of bedroom, no. of bathroom, no. of floors, no. of balcony & total area.
 
@@ -63,3 +63,22 @@ public class Hierarchical_Inheritance_16 {
         b3.display3();
     }
 }
+
+
+// OUTPUT
+
+// No. of floors: 5
+// No. of bedrooms: 8
+// Total area: 10
+// -----------------------------------
+// No. of floors: 7
+// No. of bedrooms: 3
+// No. of bathrooms: 20
+// Total area: 16
+// ------------------------------------
+// No. of floors: 1
+// No. of bedrooms: 6
+// No. of bathrooms: 28
+// No. of balcony: 31
+// Total area: 26
+// ------------------------------------

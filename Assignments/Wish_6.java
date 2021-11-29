@@ -1,4 +1,4 @@
-// WAP Write a Java Program to wish “Good Morning”, “Good Afternoon”, and “Good Evening” according to the time input by the user using scanner class. 
+// 6) WAP Write a Java Program to wish “Good Morning”, “Good Afternoon”, and “Good Evening” according to the time input by the user using scanner class.
 
 import java.util.Scanner;
 public class Wish_6 {
@@ -18,3 +18,8 @@ public class Wish_6 {
         }
     }
 }
+
+// OUTPUT
+
+// Enter the hh of hh/mm/ss in 24 hours format: 9
+// Good Morning

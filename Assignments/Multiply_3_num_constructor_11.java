@@ -1,4 +1,4 @@
-// Write a Java Program to multipy 3 numbers using an argument constructor.
+// 11) Write a Java Program to multipy 3 numbers using an argument constructor.
 
 public class Multiply_3_Num_Constructor_11 {
     
@@ -23,3 +23,8 @@ public class Multiply_3_Num_Constructor_11 {
         multiply.show();   
     }    
 }
+
+
+// OUTPUT
+
+// The Product is 6
