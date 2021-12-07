@@ -1,3 +1,5 @@
+// WAP to create 2 subclasses of the base class figure triangle and rectangle. Then implement dynamic method dispatch through this program using inheritance.
+
 class figure{
 	int x;
 	int y;
@@ -35,7 +37,7 @@ class rectangle extends figure {
 }
 
 
-public class MultiLevel_Inheritance_Figure1_21 {
+public class Runtime_Polymorphism_Inheritance_Figure1_21 {
 	public static void main(String args[]) {
 		figure f = new figure(10,20);
 		triangle t = new triangle(15,20);

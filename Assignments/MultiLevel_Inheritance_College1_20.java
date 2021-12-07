@@ -1,4 +1,19 @@
+// WAP to create a class college having a following details.
+// a) College Name
+// b) College Address
+// c) College Code
 
+// Create a class Department that inherits the class college.
+// Department class also has the following properties.
+// a) Department Name
+// b) HOD Name
+
+// Create another class student that inherits the Department class.
+// Student class has also the following properties.
+
+// a) Student Name
+// b) Student Roll No.
+// c) Degree of Student
 
 class College 
 {
