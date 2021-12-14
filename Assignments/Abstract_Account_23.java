@@ -37,7 +37,6 @@ class Savings extends Account {
         System.out.println("Rate of Interest: " + roi);
         System.out.println("New Balance: " + nb);
     }
-
 }
 
 

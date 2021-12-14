@@ -15,7 +15,7 @@ class monkey {
         System.out.println("Monkey can bite.");
     }
 }
-
+ 
 class human extends monkey implements basic_animal {
     public void eat () {
         System.out.println("Human can eat.");

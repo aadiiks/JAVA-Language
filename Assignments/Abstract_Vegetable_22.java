@@ -30,7 +30,7 @@ class Mango extends Vegetable{
 
 public class Abstract_Vegetable_22 {
 
-	public static void main(String[] args) {
+	public static void main(String args[]) {
 		Mango m1 = new Mango();
 		m1.color();
 		m1.where_grow();

@@ -1,32 +1,32 @@
 // WAP to define an interface calculator
 // Compute addition, substraction, product and division.
 
-interface calculator{
+interface calculator {
     int calculation(int a, int b);
 }
-class add implements calculator{
+class add implements calculator {
 public int calculation(int a, int b){
      return a+b;
 }
 }
-class Sub implements calculator{
+class Sub implements calculator {
 public int calculation(int a, int b){
      return a-b;
 }
 }
-class Multiply implements calculator{
+class Multiply implements calculator {
 public int calculation(int a, int b){
      return a*b;
 }
 }
-class Divide implements calculator{
+class Divide implements calculator {
 public int calculation(int a, int b){
 return a/b;
 }
 }
 
 class Interface_Calculate_Basic_24 {
-public static void main(String args[]){
+public static void main(String args[]) {
 add a = new add();
 Sub b = new Sub ();
 Multiply c = new Multiply ();
