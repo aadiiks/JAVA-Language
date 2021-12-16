@@ -25,7 +25,7 @@ class Classroom{
         
     }
 }
-public class Constructor_Overloading_10 {
+public class _10_Constructor_Overloading {
     public static void main(String args[]) {
         Classroom c1 = new Classroom();
         Classroom c2 = new Classroom();

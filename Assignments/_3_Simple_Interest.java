@@ -1,7 +1,7 @@
 // 3) Write a Java Program to find the simple interest taking input through the scanner class.
 
 import java.util.Scanner;
-public class Simple_Interest_3{
+public class _3_Simple_Interest {
     public static void main(String args[]) 
     {
         Scanner sc = new Scanner(System.in);

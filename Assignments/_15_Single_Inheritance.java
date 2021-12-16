@@ -16,7 +16,7 @@ class A extends B {
     }
 }
 
-public class Single_Inheritance_15 {
+public class _15_Single_Inheritance {
     public static void main(String args[]) {
         B b=new B();
         A a=new A();

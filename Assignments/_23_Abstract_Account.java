@@ -40,7 +40,7 @@ class Savings extends Account {
 }
 
 
-public class Abstract_Account_23 {
+public class _23_Abstract_Account {
     public static void main(String args[]) {
         Savings s =new Savings();
 

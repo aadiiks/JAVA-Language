@@ -25,7 +25,7 @@ class cone implements shape
 	}
 }
 
-public class Interface_Calculate_Volume_25 {
+public class _25_Interface_Calculate_Volume {
 	public static void main(String args[])
 	{
 		sphere s = new sphere();

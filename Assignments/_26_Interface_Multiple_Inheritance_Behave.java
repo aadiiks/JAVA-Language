@@ -26,7 +26,7 @@ class animal implements animal_eat, animal_travel {
     }    
 }
 
-public class Interface_Multiple_Inheritance_Behave_26 {
+public class _26_Interface_Multiple_Inheritance_Behave {
     public static void main(String args[]) {
         animal a = new animal();
         a.eat();

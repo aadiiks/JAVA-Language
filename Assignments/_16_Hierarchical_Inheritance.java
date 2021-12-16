@@ -52,7 +52,7 @@ class BHK3 extends Building{
     }
 }
 
-public class Hierarchical_Inheritance_16 {
+public class _16_Hierarchical_Inheritance {
     public static void main(String args[]) {
         Building b1 = new Building(5, 8, 10);
         BHK2 b2 = new BHK2(7, 3, 16, 20);

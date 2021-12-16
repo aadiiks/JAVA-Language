@@ -6,7 +6,7 @@ class Game{
     }
 }
 
-public class Default_Constructor_8{
+public class _8_Default_Constructor {
     public static void main(String args[]) {
         Game g = new Game();
     }

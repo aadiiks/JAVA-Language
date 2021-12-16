@@ -16,7 +16,7 @@ class cal{
     }
 }
 
-public class Method_Overloading_Calc_Area_13 {
+public class _13_Method_Overloading_Calc_Area {
     public static void main(String args[]) {
         cal c1=new cal();
         double p=c1.calculate(3, 4);

@@ -1,7 +1,7 @@
 // 4) Write a Java Program to find out whether a number is positive or negative taking input through the scanner class.
 
 import java.util.Scanner;
-public class Positive_or_Negative_4 {
+public class _4_Positive_or_Negative {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number to be checked: ");

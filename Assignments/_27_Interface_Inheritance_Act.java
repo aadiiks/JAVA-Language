@@ -32,7 +32,7 @@ class human extends monkey implements basic_animal {
 }
 
 
-public class Interface_Inheritance_Act_27 {
+public class _27_Interface_Inheritance_Act {
     public static void main(String args[]) {
         monkey m = new monkey();
         human h = new human();

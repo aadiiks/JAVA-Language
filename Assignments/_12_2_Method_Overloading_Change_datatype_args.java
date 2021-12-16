@@ -1,6 +1,6 @@
 // 12.2) Write a Java Program to implement method overloading i) by changing the number of arguments and ii) by changing the data type of arguments.
 
-public class Method_Overloading_Change_datatype_args_12_2 {
+public class _12_2_Method_Overloading_Change_datatype_args {
     public static void main(String args[]) {
     addover add1=new addover();
     double a=11.2;

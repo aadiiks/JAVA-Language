@@ -17,7 +17,7 @@ class figure{
     }
 }
 
-public class Overloading_Calc_Area_18 {
+public class _18_Overloading_Calc_Area {
     public static void main(String args[]){
         figure f1=new figure();
         f1.area();

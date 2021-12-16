@@ -25,7 +25,7 @@ return a/b;
 }
 }
 
-class Interface_Calculate_Basic_24 {
+class _24_Interface_Calculate_Basic {
 public static void main(String args[]) {
 add a = new add();
 Sub b = new Sub ();

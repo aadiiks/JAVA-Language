@@ -1,7 +1,7 @@
 // 7) Write a Java Program to implement the basic calculator operations using scanner class.
 
 import java.util.Scanner;
-public class Basic_Calculator_7 {
+public class _7_Basic_Calculator {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         double num1;

@@ -28,7 +28,7 @@ class Mango extends Vegetable{
 	}
 }
 
-public class Abstract_Vegetable_22 {
+public class _22_Abstract_Vegetable {
 
 	public static void main(String args[]) {
 		Mango m1 = new Mango();

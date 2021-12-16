@@ -1,7 +1,7 @@
 // 5) Write a Java Program to display numbers from 1 to n using scanner class. 
 
 import java.util.Scanner;
-public class Print_1_to_N_5 {
+public class _5_Print_1_to_N {
     public static void main(String args[]){
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Enter the end value: ");

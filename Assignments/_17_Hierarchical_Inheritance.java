@@ -4,7 +4,7 @@
 //      Create a class truck that inherits the vehicle & also stores the load limits.
 //      Write a main class to create the object of these 3 classes & display all information about car & truck.
 
-public class Hierarchical_Inheritance_17 {
+public class _17_Hierarchical_Inheritance {
     public static void main(String args[]) {
         vehicle V = new vehicle();
         car c = new car();

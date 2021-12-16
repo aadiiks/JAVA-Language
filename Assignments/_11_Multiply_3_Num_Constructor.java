@@ -1,11 +1,11 @@
 // 11) Write a Java Program to multipy 3 numbers using an argument constructor.
 
-public class Multiply_3_Num_Constructor_11 {
+public class _11_Multiply_3_Num_Constructor {
     
     int x;
     int y;
     int z;
-    Multiply_3_Num_Constructor_11(int a,int b,int c){
+    _11_Multiply_3_Num_Constructor(int a,int b,int c){
         // this.x = x;
         // this.y = y;
         // this.z = z;
@@ -19,7 +19,7 @@ public class Multiply_3_Num_Constructor_11 {
      }
 
     public static void main(String args[]) {
-        Multiply_3_Num_Constructor_11 multiply = new Multiply_3_Num_Constructor_11(1,2,3); 
+        _11_Multiply_3_Num_Constructor multiply = new _11_Multiply_3_Num_Constructor(1,2,3); 
         multiply.show();   
     }    
 }

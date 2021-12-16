@@ -37,7 +37,7 @@ class rectangle extends figure {
 }
 
 
-public class Runtime_Polymorphism_Inheritance_Figure1_21 {
+public class _21_Runtime_Polymorphism_Inheritance_Figure1 {
 	public static void main(String args[]) {
 		figure f = new figure(10,20);
 		triangle t = new triangle(15,20);

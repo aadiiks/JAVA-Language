@@ -85,8 +85,7 @@ class Student extends Department
 }
 
 
-public class MultiLevel_Inheritance_College1_20
-{
+public class _20_MultiLevel_Inheritance_College1 {
 	public static void main(String args[]) 
 	{
 		College c = new College("BCREC", "Durgapur", 120);

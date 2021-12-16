@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class Largest_Number_In_Array_14 {
+public class _14_Largest_Number_In_Array {
     public static void main(String args[]) {
         Scanner sc=new Scanner (System.in);
         int arr[]=new int [10];
